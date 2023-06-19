@@ -1,4 +1,4 @@
-package com.lucasgabriel.senhas.Controller;
+package com.lucasgabriel.senhas.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
